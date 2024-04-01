@@ -9,7 +9,9 @@ This app utilizes the RAG (Retrieve, Aggregate, Generate) technique to provide t
 1️⃣ Embed all your data.
 
 2️⃣ Embed your query.
+
 3️⃣ Retrieve context that is nearby your query.
+
 4️⃣ Feed that context and query to the LLamaIndex, and you get a reasonable answer to your query.
 
 While it may be a small-scale project, it showcases the potential of RAG technology combined with LLamaIndex's capabilities! 💡✨
