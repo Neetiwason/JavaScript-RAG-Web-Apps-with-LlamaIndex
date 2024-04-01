@@ -7,6 +7,7 @@ This app utilizes the RAG (Retrieve, Aggregate, Generate) technique to provide t
 ## How Does the RAG Technique Work?
 
 1️⃣ Embed all your data.
+
 2️⃣ Embed your query.
 3️⃣ Retrieve context that is nearby your query.
 4️⃣ Feed that context and query to the LLamaIndex, and you get a reasonable answer to your query.
