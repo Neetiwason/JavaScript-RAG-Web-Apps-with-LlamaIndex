@@ -15,11 +15,12 @@ While it may be a small-scale project, it showcases the potential of RAG technol
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Neetiwason/JavaScript-RAG-Web-Apps-with-LlamaIndex/raw/main/assets/70746411/c4f9e23a-bbb3-423a-89d3-dfef3971a3d8.png)
+![Screenshot 1](https://github.com/Neetiwason/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/70746411/f008bf1d-1dbc-4a8b-ab9e-754ab57f8ec7)
 
-![Screenshot 2](https://github.com/Neetiwason/JavaScript-RAG-Web-Apps-with-LlamaIndex/raw/main/assets/70746411/f36cbbfb-0510-4284-be43-e0eba45d1f35.png)
+![Screenshot 2](https://github.com/Neetiwason/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/70746411/63eca4c5-a38d-4be0-b533-6547545283ed)
 
-![Screenshot 3](https://github.com/Neetiwason/JavaScript-RAG-Web-Apps-with-LlamaIndex/raw/main/assets/70746411/1017f87c-ce6f-4b8b-8ad8-0c7330db2abd.png)
+![Screenshot 3](https://github.com/Neetiwason/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/70746411/68fd16db-6c31-44a1-b5ab-acc67dcfef44)
 
-![Screenshot 4](https://github.com/Neetiwason/JavaScript-RAG-Web-Apps-with-LlamaIndex/raw/main/assets/70746411/74fa42da-a518-44ac-a790-a42ef2bcde6d.png)
+![Screenshot 4](https://github.com/Neetiwason/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/70746411/4513413b-e773-43fd-890d-1defee9e6f47)
+
 
